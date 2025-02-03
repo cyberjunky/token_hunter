@@ -26,4 +26,4 @@ solana==0.34.2
 Telethon==1.37.0
 torch==2.4.1
 undetected-chromedriver==3.5.5
-urllib3==2.2.1
+urllib3==2.2.2
